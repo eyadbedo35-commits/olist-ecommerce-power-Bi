@@ -89,13 +89,13 @@ RETURN DIVIDE(RepeatCustomers, [Total Customers])
 Three interactive pages with synced slicers (Year, Category, State).
 
 ### Sales Overview
-![Sales Overview](Sales_Overview.png)
+![Sales Overview](Screenshots/Sales_Overview.png)
 
 ### Customers & Geography
-![Customers & Geography](Customers_Geography.png)
+![Customers & Geography](Screenshots/Customers_Geography.png)
 
 ### Delivery & Satisfaction
-![Delivery & Satisfaction](Delivery_Satisfaction.png)
+![Delivery & Satisfaction](Screenshots/Delivery_Satisfaction.png)
 
 ---
 
@@ -115,15 +115,15 @@ Three interactive pages with synced slicers (Year, Category, State).
 
 | File | Description |
 |---|---|
-| `Olist_Sales_Analysis.pbix` | Power BI project (cleaning steps, model, DAX, dashboard) |
-| `*.csv` | Original raw data from Kaggle (8 tables) |
-| `*.png` | Dashboard screenshots |
+| `Olist_Sales_Analysis.pbix` | | `Data/` | Original raw data from Kaggle (8 tables) |
+| `PowerBI/` | Power BI project file (cleaning steps, model, DAX, dashboard) |
+| `Screenshots/` | Dashboard screenshots |
 
-**To open:** download the `.pbix` file and open it in Power BI Desktop.
+**To open:** download the `.pbix` file from the `PowerBI` folder and open it in Power BI Desktop.
 
 ---
 
 ## Author
 
 **[Samar Mohsen]** — Data Analysis Diploma, Smart Investment Solution (SIS)
-[LinkedIn](https://www.linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/samar-mohsen-a5347b2a3)
