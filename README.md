@@ -115,7 +115,7 @@ Three interactive pages with synced slicers (Year, Category, State).
 
 | File | Description |
 |---|---|
-| `Olist_Sales_Analysis.pbix` | | `Data/` | Original raw data from Kaggle (8 tables) |
+| `Data/` | Original raw data from Kaggle (8 tables) |
 | `PowerBI/` | Power BI project file (cleaning steps, model, DAX, dashboard) |
 | `Screenshots/` | Dashboard screenshots |
 
@@ -125,5 +125,5 @@ Three interactive pages with synced slicers (Year, Category, State).
 
 ## Author
 
-**[Samar Mohsen]** — Data Analysis Diploma, Smart Investment Solution (SIS)
+**Samar Mohsen** — Data Analysis Diploma, Smart Investment Solution (SIS)
 [LinkedIn](https://www.linkedin.com/in/samar-mohsen-a5347b2a3)
